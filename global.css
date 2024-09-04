@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --wwwmindlercom-open-sans-regular-10: "Open Sans";
+
+  /* font sizes */
+  --wwwmindlercom-open-sans-regular-10-size: 10px;
+  --wwwmindlercom-open-sans-regular-13-size: 13px;
+  --wwwmindlercom-open-sans-semibold-15-size: 15px;
+  --wwwmindlercom-open-sans-semibold-14-size: 14px;
+  --wwwmindlercom-open-sans-semibold-24-size: 24px;
+  --font-size-lgi: 19px;
+  --wwwmindlercom-open-sans-regular-16-size: 16px;
+  --wwwmindlercom-open-sans-semibold-20-size: 20px;
+  --wwwmindlercom-open-sans-semibold-36-size: 36px;
+
+  /* Colors */
+  --wwwmindlercom-white: #fff;
+  --wwwmindlercom-wild-sand: #f6f6f6;
+  --color-black: #000;
+  --wwwmindlercom-deep-cerulean: #007fb6;
+  --wwwmindlercom-tundora: #484848;
+  --wwwmindlercom-tango: #ea6915;
+  --color-chocolate-100: #d14f00;
+  --wwwmindlercom-dusty-gray: #999;
+  --wwwmindlercom-onahau: #cdefff;
+  --wwwmindlercom-gray: #888;
+  --wwwmindlercom-mandy: #ea6370;
+  --wwwmindlercom-mandy-5: rgba(234, 99, 112, 0.05);
+  --wwwmindlercom-botticelli: #cbd6e2;
+  --wwwmindlercom-wisp-pink: #fef7f8;
+  --color-deepskyblue: #26a6db;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-21xl: 40px;
+  --gap-6xl: 25px;
+  --gap-mini: 15px;
+  --gap-8xs: 5px;
+  --gap-11xs: 2px;
+  --gap-11xl: 30px;
+  --gap-31xl: 50px;
+  --gap-4xl: 23px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-26xl: 45px;
+  --padding-xl: 20px;
+  --padding-10xl: 29px;
+  --padding-27xl: 46px;
+  --padding-xs: 12px;
+  --padding-34xl: 53px;
+  --padding-4xs: 9px;
+  --padding-5xs: 8px;
+  --padding-mini: 15px;
+  --padding-7xs: 6px;
+  --padding-3xs: 10px;
+  --padding-33xl: 52px;
+  --padding-8xs: 5px;
+  --padding-31xl: 50px;
+  --padding-13xl: 32px;
+  --padding-9xs: 4px;
+  --padding-12xs: 1px;
+  --padding-2xs: 11px;
+  --padding-sm: 14px;
+  --padding-3xl: 22px;
+  --padding-2xl: 21px;
+  --padding-114xl: 133px;
+  --padding-6xs: 7px;
+  --padding-15xl: 34px;
+  --padding-81xl: 100px;
+  --padding-6xl: 25px;
+  --padding-11xl: 30px;
+  --padding-30xl: 49px;
+  --padding-16xl: 35px;
+  --padding-19xl: 38px;
+  --padding-xl-3: 20.3px;
+  --padding-38xl: 57px;
+  --padding-7xl: 26px;
+  --padding-5xl: 24px;
+
+  /* Border radiuses */
+  --br-10xs: 3px;
+  --br-9xs: 4px;
+  --br-11xs: 2px;
+}
