@@ -5,14 +5,14 @@
 }
 .background {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   border: 0;
   align-items: center;
   justify-content: flex-start;
   padding: var(--padding-9xs) var(--padding-sm);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
-  color: var(--wwwmindlercom-tundora);
+  font-family: var(--Enspirepath-10);
+  font-size: var(--Enspirepath-semibold-15-size);
+  color: var(--Enspirepath-tundora);
 }
 .item {
   align-items: flex-start;
@@ -27,7 +27,7 @@
 }
 .background1 {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -44,7 +44,7 @@
 }
 .background2 {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -70,7 +70,7 @@
 }
 .background3 {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   flex-direction: row;
   align-items: center;
   padding: var(--padding-9xs) var(--padding-sm);
@@ -94,10 +94,10 @@
 .get-started {
   text-decoration: none;
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-white);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-white);
   text-align: left;
   display: inline-block;
   min-width: 78px;
@@ -110,7 +110,7 @@
   cursor: pointer;
   border: 0;
   padding: var(--padding-6xs) var(--padding-sm);
-  background-color: var(--wwwmindlercom-deep-cerulean);
+  background-color: var(--Enspirepath-deep-cerulean);
   border-radius: var(--br-9xs);
   display: flex;
   flex-direction: row;
@@ -134,8 +134,8 @@
   align-items: center;
   justify-content: flex-start;
   gap: 18.6px;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-deep-cerulean);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .container1 {
   flex: 1;
@@ -164,17 +164,17 @@
 .header {
   flex: 1;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
-  background-color: var(--wwwmindlercom-white);
-  border-bottom: 1px solid var(--wwwmindlercom-tundora);
+  background-color: var(--Enspirepath-white);
+  border-bottom: 1px solid var(--Enspirepath-tundora);
   justify-content: flex-end;
   padding: var(--padding-2xs) 106px var(--padding-3xs);
   top: 0;
   z-index: 99;
   position: sticky;
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-15-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .header-wrapper {
   align-self: stretch;
@@ -192,9 +192,9 @@
 }
 .make-smart-decisions {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
+  font-size: var(--Enspirepath-semibold-15-size);
   line-height: 20px;
-  color: var(--wwwmindlercom-gray);
+  color: var(--Enspirepath-gray);
 }
 .take-your-first-step-towards-r-parent {
   align-self: stretch;
@@ -206,10 +206,10 @@
 }
 .give-test-now {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-white);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-white);
   text-align: center;
   display: inline-block;
   min-width: 97px;
@@ -222,9 +222,9 @@
 }
 .link2 {
   cursor: pointer;
-  border: 1px solid var(--wwwmindlercom-deep-cerulean);
+  border: 1px solid var(--Enspirepath-deep-cerulean);
   padding: var(--padding-3xs) var(--padding-6xl);
-  background-color: var(--wwwmindlercom-deep-cerulean);
+  background-color: var(--Enspirepath-deep-cerulean);
   border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
   justify-content: flex-start;
   white-space: nowrap;
@@ -262,7 +262,7 @@
   align-self: stretch;
   flex-direction: row;
   padding: 0 var(--padding-19xl);
-  font-size: var(--wwwmindlercom-open-sans-regular-16-size);
+  font-size: var(--Enspirepath-16-size);
 }
 .frame-group,
 .frame-wrapper {
@@ -314,14 +314,14 @@
   padding: 0 var(--padding-xl);
   box-sizing: border-box;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-36-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-36-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .section {
   align-self: stretch;
   height: 5px;
-  background-color: var(--wwwmindlercom-onahau);
+  background-color: var(--Enspirepath-onahau);
 }
 .how-we-help {
   margin: 0;
@@ -339,7 +339,7 @@
 }
 .exclusive-values-and {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   line-height: 20px;
 }
 .frame-container,
@@ -533,17 +533,17 @@
   align-items: flex-end;
   padding: 40px 0 23.9px;
   gap: 92.1px;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
 }
 .section1 {
   align-self: stretch;
-  background-color: var(--wwwmindlercom-wild-sand);
+  background-color: var(--Enspirepath-wild-sand);
   align-items: center;
   padding: var(--padding-31xl) var(--padding-xl);
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-24-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-24-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .why-we {
   margin: 0;
@@ -585,7 +585,7 @@
   padding: 0 var(--padding-xl);
   box-sizing: border-box;
   max-width: 100%;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
 }
 .studentpng-icon {
   height: 100px;
@@ -616,8 +616,8 @@
 }
 .item4 {
   width: 474.7px;
-  background-color: var(--wwwmindlercom-wisp-pink);
-  border-right: 1px solid var(--wwwmindlercom-botticelli);
+  background-color: var(--Enspirepath-wisp-pink);
+  border-right: 1px solid var(--Enspirepath-botticelli);
   flex-direction: row;
   padding: var(--padding-16xl) 65px 0;
   gap: 45.3px;
@@ -647,8 +647,8 @@
 }
 .item5 {
   flex: 0.9574;
-  background-color: var(--wwwmindlercom-wild-sand);
-  border-right: 1px solid var(--wwwmindlercom-botticelli);
+  background-color: var(--Enspirepath-wild-sand);
+  border-right: 1px solid var(--Enspirepath-botticelli);
   flex-direction: row;
   padding: var(--padding-16xl) var(--padding-38xl) 0;
   gap: 37.7px;
@@ -674,8 +674,8 @@
 }
 .item6 {
   flex: 1;
-  background-color: var(--wwwmindlercom-wild-sand);
-  border-right: 1px solid var(--wwwmindlercom-botticelli);
+  background-color: var(--Enspirepath-wild-sand);
+  border-right: 1px solid var(--Enspirepath-botticelli);
   padding: var(--padding-16xl) var(--padding-30xl) 0;
   gap: 29.8px;
   min-width: 309px;
@@ -704,7 +704,7 @@
   justify-content: center;
   padding: var(--padding-19xl) 0 0;
   text-align: left;
-  color: var(--wwwmindlercom-tundora);
+  color: var(--Enspirepath-tundora);
 }
 .background4,
 .container11,
@@ -724,7 +724,7 @@
 }
 .background4 {
   align-self: stretch;
-  background-color: var(--wwwmindlercom-deep-cerulean);
+  background-color: var(--Enspirepath-deep-cerulean);
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
@@ -737,7 +737,7 @@
 .vision1 {
   margin: 0;
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-20-size);
+  font-size: var(--Enspirepath-semibold-20-size);
   font-weight: 600;
   font-family: inherit;
   display: inline-block;
@@ -755,7 +755,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   padding: var(--padding-8xs) 0 var(--padding-10xs);
-  color: var(--wwwmindlercom-tundora);
+  color: var(--Enspirepath-tundora);
 }
 .read-more-about {
   align-self: stretch;
@@ -772,7 +772,7 @@
 }
 .link3 {
   align-self: stretch;
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .container12,
 .container13 {
@@ -796,7 +796,7 @@
 .mission1 {
   margin: 0;
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-20-size);
+  font-size: var(--Enspirepath-semibold-20-size);
   font-weight: 600;
   font-family: inherit;
   display: inline-block;
@@ -827,7 +827,7 @@
 .values1 {
   margin: 0;
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-20-size);
+  font-size: var(--Enspirepath-semibold-20-size);
   font-weight: 600;
   font-family: inherit;
   display: inline-block;
@@ -862,8 +862,8 @@
   padding: 0 var(--padding-xl);
   box-sizing: border-box;
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-mandy);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-mandy);
 }
 .section-wrapper,
 .section2 {
@@ -874,7 +874,7 @@
 }
 .section2 {
   flex: 1;
-  background-color: var(--wwwmindlercom-mandy-5);
+  background-color: var(--Enspirepath-mandy-5);
   flex-direction: column;
   gap: var(--gap-31xl);
 }
@@ -884,9 +884,9 @@
   padding: 0 0 var(--padding-26xl);
   box-sizing: border-box;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-24-size);
-  color: var(--wwwmindlercom-white);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-24-size);
+  color: var(--Enspirepath-white);
+  font-family: var(--Enspirepath-10);
 }
 .container21 {
   width: 1px;
@@ -913,7 +913,7 @@
   align-items: flex-start;
   justify-content: center;
   padding: 0 var(--padding-xl) 0 var(--padding-2xl);
-  font-size: var(--wwwmindlercom-open-sans-semibold-24-size);
+  font-size: var(--Enspirepath-semibold-24-size);
 }
 .give-the-test {
   width: 546.1px;
@@ -934,7 +934,7 @@
   padding: 0 var(--padding-xl) 0 var(--padding-2xl);
   box-sizing: border-box;
   max-width: 100%;
-  color: var(--wwwmindlercom-gray);
+  color: var(--Enspirepath-gray);
 }
 .our-test-is-interactive-and-ga {
   width: 521px;
@@ -967,7 +967,7 @@
 }
 .our-career-test1 {
   margin: 0;
-  font-size: var(--wwwmindlercom-open-sans-semibold-20-size);
+  font-size: var(--Enspirepath-semibold-20-size);
   font-weight: 600;
   font-family: inherit;
 }
@@ -986,7 +986,7 @@
   align-self: stretch;
   position: relative;
   line-height: 19px;
-  color: var(--wwwmindlercom-tundora);
+  color: var(--Enspirepath-tundora);
   z-index: 1;
 }
 .container31,
@@ -1022,7 +1022,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .get-known-about {
   width: 435px;
@@ -1031,12 +1031,12 @@
 }
 .take-free-test {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   line-height: 20px;
   text-transform: capitalize;
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-tango);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-tango);
   text-align: center;
   display: inline-block;
   min-width: 98px;
@@ -1050,8 +1050,8 @@
 }
 .button {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
-  border: 1px solid var(--wwwmindlercom-tango);
+  background-color: var(--Enspirepath-white);
+  border: 1px solid var(--Enspirepath-tango);
   padding: var(--padding-8xs) var(--padding-xs);
   white-space: nowrap;
 }
@@ -1124,9 +1124,9 @@
   box-sizing: border-box;
   max-width: 100%;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .by-7-personalized {
   margin: 0;
@@ -1137,7 +1137,7 @@
   font-family: inherit;
 }
 .heading-2 {
-  font-size: var(--wwwmindlercom-open-sans-semibold-20-size);
+  font-size: var(--Enspirepath-semibold-20-size);
 }
 .container35,
 .heading-2 {
@@ -1149,21 +1149,21 @@
 }
 .chat-with-buddy1 {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   line-height: 20px;
   text-transform: capitalize;
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-tango);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-tango);
   text-align: center;
   display: inline-block;
   min-width: 114px;
 }
 .button1 {
   cursor: pointer;
-  border: 1px solid var(--wwwmindlercom-tango);
+  border: 1px solid var(--Enspirepath-tango);
   padding: var(--padding-8xs) var(--padding-xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   border-radius: var(--br-9xs);
   display: flex;
   flex-direction: row;
@@ -1252,12 +1252,12 @@
 }
 .explore-pathways {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   line-height: 20px;
   text-transform: capitalize;
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-tango);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-tango);
   text-align: center;
   display: inline-block;
   min-width: 120px;
@@ -1274,12 +1274,12 @@
 }
 .view-mentors {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
   line-height: 20px;
   text-transform: capitalize;
   font-weight: 600;
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
-  color: var(--wwwmindlercom-tango);
+  font-family: var(--Enspirepath-10);
+  color: var(--Enspirepath-tango);
   text-align: center;
   display: inline-block;
   min-width: 93px;
@@ -1359,8 +1359,8 @@
 }
 .button4 {
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
-  border: 1px solid var(--wwwmindlercom-tango);
+  background-color: var(--Enspirepath-white);
+  border: 1px solid var(--Enspirepath-tango);
   padding: var(--padding-8xs) var(--padding-xs);
 }
 .link10 {
@@ -1376,7 +1376,7 @@
 .container61 {
   align-self: stretch;
   text-align: center;
-  color: var(--wwwmindlercom-tango);
+  color: var(--Enspirepath-tango);
 }
 .community-description {
   flex: 1;
@@ -1422,9 +1422,9 @@
   padding: 0 var(--padding-xl) 38.6px;
   box-sizing: border-box;
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .are-you-ready {
   margin: 0;
@@ -1448,7 +1448,7 @@
 .late-message {
   flex-direction: row;
   padding: 0 var(--padding-33xl);
-  font-size: var(--wwwmindlercom-open-sans-regular-16-size);
+  font-size: var(--Enspirepath-16-size);
 }
 .footer-call-to-action,
 .ready-to-step {
@@ -1465,14 +1465,14 @@
 }
 .contact-us-by,
 .input {
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-14-size);
+  font-family: var(--Enspirepath-10);
 }
 .input {
   width: 100%;
   border: 0;
   outline: 0;
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   height: 39px;
   flex: 1;
   border-radius: var(--br-11xs) 0 0 var(--br-11xs);
@@ -1482,14 +1482,14 @@
   justify-content: flex-start;
   padding: var(--padding-3xs) var(--padding-mini);
   box-sizing: border-box;
-  color: var(--wwwmindlercom-dusty-gray);
+  color: var(--Enspirepath-dusty-gray);
   min-width: 195px;
   max-width: 500px;
 }
 .contact-us-by {
   position: relative;
   text-transform: capitalize;
-  color: var(--wwwmindlercom-white);
+  color: var(--Enspirepath-white);
   text-align: center;
   display: inline-block;
   min-width: 122px;
@@ -1505,7 +1505,7 @@
   cursor: pointer;
   border: 0;
   padding: var(--padding-3xs) var(--padding-mini);
-  background-color: var(--wwwmindlercom-tango);
+  background-color: var(--Enspirepath-tango);
   border-radius: 0 var(--br-11xs) var(--br-11xs) 0;
   flex-direction: row;
   box-sizing: border-box;
@@ -1528,7 +1528,7 @@
   row-gap: 20px;
 }
 .section3 {
-  background-color: var(--wwwmindlercom-onahau);
+  background-color: var(--Enspirepath-onahau);
   flex-direction: column;
   padding: 99.1px 726px var(--padding-31xl) 742px;
   box-sizing: border-box;
@@ -1667,8 +1667,8 @@
   padding: 0 var(--padding-xl);
   box-sizing: border-box;
   max-width: 100%;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-tundora);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-tundora);
 }
 .section-parent {
   flex-direction: column;
@@ -1676,9 +1676,9 @@
   padding: 0 0 var(--padding-xl);
   gap: var(--gap-11xl);
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-24-size);
-  color: var(--wwwmindlercom-deep-cerulean);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-24-size);
+  color: var(--Enspirepath-deep-cerulean);
+  font-family: var(--Enspirepath-10);
 }
 .news-and-updates1,
 .news-heading {
@@ -1754,19 +1754,19 @@
   position: absolute;
   margin: 0 !important;
   bottom: -13px;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
   text-transform: capitalize;
   display: inline-block;
   z-index: 1;
 }
 .by {
   left: 99px;
-  color: var(--wwwmindlercom-dusty-gray);
+  color: var(--Enspirepath-dusty-gray);
   min-width: 19px;
 }
 .hindustan-times {
   right: 99px;
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
   min-width: 103px;
 }
 .heading-5 {
@@ -1811,7 +1811,7 @@
   align-items: center;
   justify-content: flex-start;
   padding: 0 var(--padding-xl) var(--padding-12xs);
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .background5,
 .container64,
@@ -1825,7 +1825,7 @@
   flex-direction: column;
   padding: 0 var(--padding-xl) var(--padding-mini);
   flex-shrink: 0;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
 }
 .background5,
 .container64 {
@@ -1836,7 +1836,7 @@
   height: 420px;
   width: 360px;
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   overflow: hidden;
   flex-shrink: 0;
   flex-direction: column;
@@ -1947,7 +1947,7 @@
   min-width: 19px;
 }
 .economies-time {
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
   min-width: 100px;
 }
 .news-two-attribution,
@@ -1961,8 +1961,8 @@
   align-self: stretch;
   justify-content: center;
   padding: 0 var(--padding-xl);
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
-  color: var(--wwwmindlercom-dusty-gray);
+  font-size: var(--Enspirepath-13-size);
+  color: var(--Enspirepath-dusty-gray);
 }
 .container70,
 .container71 {
@@ -1977,7 +1977,7 @@
 }
 .container70 {
   padding: 0 var(--padding-xl) var(--padding-mini);
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
+  font-size: var(--Enspirepath-semibold-14-size);
 }
 .background6,
 .container70,
@@ -1996,7 +1996,7 @@
   height: 420px;
   flex: 1;
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   overflow-y: auto;
   padding: 0 0 235px;
   box-sizing: border-box;
@@ -2017,8 +2017,8 @@
   box-sizing: border-box;
   min-height: 1px;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
-  color: var(--wwwmindlercom-tundora);
+  font-size: var(--Enspirepath-semibold-15-size);
+  color: var(--Enspirepath-tundora);
 }
 .news-navigation {
   flex: 1;
@@ -2075,7 +2075,7 @@
 .financial-express {
   position: relative;
   text-transform: capitalize;
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
   display: inline-block;
   min-width: 104px;
 }
@@ -2094,7 +2094,7 @@
   height: 420px;
   flex: 1;
   border-radius: var(--br-9xs);
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   overflow-y: auto;
   align-items: flex-start;
   padding: 0 0 226.1px;
@@ -2118,8 +2118,8 @@
   min-width: 253px;
   min-height: 1px;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
-  color: var(--wwwmindlercom-tundora);
+  font-size: var(--Enspirepath-semibold-15-size);
+  color: var(--Enspirepath-tundora);
 }
 .news-articles,
 .news-item-two {
@@ -2131,12 +2131,12 @@
   justify-content: flex-start;
   min-width: 780px;
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-deep-cerulean);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .news-articles {
   justify-content: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
+  font-size: var(--Enspirepath-semibold-15-size);
 }
 .section-container,
 .section4 {
@@ -2147,7 +2147,7 @@
 }
 .section4 {
   flex: 1;
-  background-color: var(--wwwmindlercom-wild-sand);
+  background-color: var(--Enspirepath-wild-sand);
   flex-direction: column;
   align-items: center;
   padding: var(--padding-31xl) var(--padding-xl);
@@ -2159,9 +2159,9 @@
   align-items: flex-start;
   padding: 0 0 299.6px;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-24-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-24-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .icon1 {
   position: absolute;
@@ -2176,7 +2176,7 @@
   height: 40px;
   position: relative;
   border-radius: 0 var(--br-10xs) var(--br-10xs) 0;
-  background-color: var(--wwwmindlercom-tango);
+  background-color: var(--Enspirepath-tango);
   z-index: 2;
 }
 .footer-links {
@@ -2226,7 +2226,7 @@
   align-items: flex-start;
 }
 .heading-3 {
-  background-color: var(--wwwmindlercom-wild-sand);
+  background-color: var(--Enspirepath-wild-sand);
   justify-content: flex-start;
   padding: 0 var(--padding-3xs);
 }
@@ -2253,7 +2253,7 @@
 }
 .transition-from-102-container {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
   line-height: 20px;
   text-align: left;
 }
@@ -2272,7 +2272,7 @@
   gap: var(--gap-mini);
   min-height: 1px;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
+  font-size: var(--Enspirepath-semibold-15-size);
 }
 .container-parent2 {
   flex: 1;
@@ -2332,7 +2332,7 @@
   min-width: 117px;
 }
 .heading-31 {
-  background-color: var(--wwwmindlercom-wild-sand);
+  background-color: var(--Enspirepath-wild-sand);
   display: flex;
   flex-direction: row;
   align-items: flex-start;
@@ -2374,11 +2374,11 @@
   align-items: flex-start;
   justify-content: flex-start;
   padding: 0 0 var(--padding-10xs);
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
 }
 .list3 {
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
 }
 .container81,
 .footer-columns,
@@ -2395,14 +2395,14 @@
   gap: var(--gap-6xl);
   min-height: 1px;
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
+  font-size: var(--Enspirepath-semibold-15-size);
 }
 .footer-columns {
   flex: 1;
   gap: 76px;
   min-width: 292px;
   max-width: 100%;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
 }
 .container83 {
   width: 11px;
@@ -2411,7 +2411,7 @@
 }
 .email-mailtodpgmailcom-phon-container {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
 }
 .link31 {
   width: 134.2px;
@@ -2472,7 +2472,7 @@
 .career-counseling-is-container,
 .chat-with-buddy2 {
   position: relative;
-  font-size: var(--wwwmindlercom-open-sans-regular-13-size);
+  font-size: var(--Enspirepath-13-size);
 }
 .career-counseling-is-container {
   width: 1134.1px;
@@ -2482,7 +2482,7 @@
   max-width: 100%;
 }
 .chat-with-buddy2 {
-  color: var(--wwwmindlercom-deep-cerulean);
+  color: var(--Enspirepath-deep-cerulean);
   display: inline-block;
   min-width: 100px;
 }
@@ -2508,7 +2508,7 @@
   justify-content: center;
   padding: var(--padding-34xl) var(--padding-xl) var(--padding-4xs);
   text-align: center;
-  font-size: var(--wwwmindlercom-open-sans-regular-10-size);
+  font-size: var(--Enspirepath-10-size);
   color: var(--color-black);
 }
 .container85,
@@ -2525,7 +2525,7 @@
   box-sizing: border-box;
   gap: 8px;
   min-height: 1px;
-  font-size: var(--wwwmindlercom-open-sans-semibold-15-size);
+  font-size: var(--Enspirepath-semibold-15-size);
 }
 .footer-content {
   width: 1170px;
@@ -2557,7 +2557,7 @@
 .footer {
   margin-left: -3px;
   align-self: stretch;
-  background-color: var(--wwwmindlercom-wild-sand);
+  background-color: var(--Enspirepath-wild-sand);
   flex-direction: row;
   justify-content: space-between;
   padding: 70px 37px 0.2px var(--padding-10xs);
@@ -2565,14 +2565,14 @@
   max-width: 100%;
   gap: var(--gap-xl);
   text-align: left;
-  font-size: var(--wwwmindlercom-open-sans-semibold-14-size);
-  color: var(--wwwmindlercom-tundora);
-  font-family: var(--wwwmindlercom-open-sans-regular-10);
+  font-size: var(--Enspirepath-semibold-14-size);
+  color: var(--Enspirepath-tundora);
+  font-family: var(--Enspirepath-10);
 }
 .body {
   width: 100%;
   position: relative;
-  background-color: var(--wwwmindlercom-white);
+  background-color: var(--Enspirepath-white);
   flex-direction: column;
   justify-content: flex-start;
   line-height: normal;
@@ -2865,7 +2865,7 @@
   .mission1,
   .values1,
   .vision1 {
-    font-size: var(--wwwmindlercom-open-sans-regular-16-size);
+    font-size: var(--Enspirepath-16-size);
   }
   .our-career-test {
     font-size: var(--font-size-lgi);
@@ -2874,13 +2874,13 @@
     min-width: 100%;
   }
   .our-career-test1 {
-    font-size: var(--wwwmindlercom-open-sans-regular-16-size);
+    font-size: var(--Enspirepath-16-size);
   }
   .container-container {
     min-width: 100%;
   }
   .by-7-personalized {
-    font-size: var(--wwwmindlercom-open-sans-regular-16-size);
+    font-size: var(--Enspirepath-16-size);
   }
   .container34 {
     padding-right: var(--padding-xl);
@@ -2945,3 +2945,5 @@
     box-sizing: border-box;
   }
 }
+
+
